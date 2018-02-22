@@ -1,0 +1,12 @@
+{
+    "name": "tolik/test",
+    "authors": [
+        {
+            "name": "Anatoliy Poliakov",
+            "email": "poliakovtol@gmail.com"
+        }
+    ],
+    "require": {
+        "abraham/twitteroauth": "^0.7.4"
+    }
+}
